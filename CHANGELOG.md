@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.13.0](https://github.com/asdf-vm/asdf/compare/v0.12.0...v0.13.0) (2023-07-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* **fish:** don't resolve symlinks for ASDF_DIR ([#1583](https://github.com/asdf-vm/asdf/issues/1583))
+
+### Documentation
+
+* migrate to VitePress from VuePress ([#1578](https://github.com/asdf-vm/asdf/issues/1578)) ([5133819](https://github.com/asdf-vm/asdf/commit/5133819a77aaa393def347bfecb1c442ece4c7f8))
+
+
+### Patches
+
+* **fish:** don't resolve symlinks for ASDF_DIR ([#1583](https://github.com/asdf-vm/asdf/issues/1583)) ([d1a563d](https://github.com/asdf-vm/asdf/commit/d1a563dcc0107d5c631f73b114044898b5cadcf9))
+
 ## [0.12.0](https://github.com/asdf-vm/asdf/compare/v0.11.3...v0.12.0) (2023-06-09)
 
 
